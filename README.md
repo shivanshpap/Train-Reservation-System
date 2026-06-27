@@ -238,7 +238,7 @@ Varanasi    → Kanpur(330), Lucknow(300)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/train_reservation_system.git
+git clone https://github.com/shivanshpap/Train-Reservation-System.git
 cd train_reservation_system
 ```
 
@@ -291,7 +291,7 @@ If you don't have GCC installed, you can directly run the pre-built executable:
 ### Clone Your Fork
 
 ```bash
-git clone [https://github.com/shivanshpap/Train-Reservation-System.git]
+git clone https://github.com/shivanshpap/Train-Reservation-System.git
 cd train_reservation_system
 ```
 
@@ -336,7 +336,7 @@ git push origin feature/your-feature-name
 
 ```bash
 # Add the original repo as upstream (one-time setup)
-git remote add upstream https://github.com/<original-owner>/train_reservation_system.git
+git remote add upstream https://github.com/shivanshpap/Train-Reservation-System.git
 
 # Fetch and merge updates
 git fetch upstream
