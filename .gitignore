@@ -1,0 +1,11 @@
+# Build artifacts
+*.exe
+*.o
+*.out
+
+# Mac/Linux build output if any
+train_reservation
+
+# OS generated files
+.DS_Store
+Thumbs.db
