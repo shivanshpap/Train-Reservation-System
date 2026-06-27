@@ -291,7 +291,7 @@ If you don't have GCC installed, you can directly run the pre-built executable:
 ### Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/train_reservation_system.git
+git clone [https://github.com/shivanshpap/Train-Reservation-System.git]
 cd train_reservation_system
 ```
 
